@@ -1,0 +1,20 @@
+﻿A01642913 Gael Venegas
+Actividad Evaluable: Mapas de calor y boxplots
+¿Hay alguna variable que no aporta información?
+El código no aporta información ya que el país al que pertenecen los datos es algo que ya sabes a través de la variable de entidad.
+
+
+Si tuvieras que eliminar variables, ¿cuáles quitarías y por qué?
+Eliminaría el código ya que como mencioné anteriormente está de más.
+
+
+¿Existen variables que tengan datos extraños?
+No realmente, ya que la única variable es la de PIB per cápita y los valores de dicha variables parecen mantenerse dentro de una rango constante y esto lo podemos ver ejemplificado a través de su desviación estándar.
+
+
+Si comparas las variables, ¿todas están en rangos similares? ¿Crees que esto afecte?
+Las variables no se encuentran en un rango similar ya que como podemos observar en los boxplot, el PIB per cápita varía mucho de país a país. Siendo un factor económico es lógico que el PIB varíe bastante de país a país.
+
+
+¿Puedes encontrar grupos qué se parezcan? ¿Qué grupos son estos?
+Canadá y Estados Unidos comparten un rango similar y esto lo podemos ver ejemplificado a través de la cercanía de sus datos en la mayoría de los gráficos.
