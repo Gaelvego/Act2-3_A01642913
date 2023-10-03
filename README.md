@@ -1,2 +1,2 @@
-# Act2-3_A01642913
-Repositorio para subir los archivos requeridos por las actividades 2 y 3
+# Data Analysis of GDP using Python libraries
+Used data analysis techniques on a CSV file of the GPD of differente countries. Used Pandas, Matplotlib and Seaborn.
